@@ -14,13 +14,16 @@ This repository includes the following NumPy concepts:
 - **Array Reshaping**
   - `reshape()`
   - Changing array dimensions efficiently
-
+  
+![image alt](https://github.com/ashishkumardata/Numpy-Tutorials/blob/5af21b34be779726d549b57936c3a82f5d10fdb8/Image/1.png)
 ---
 
 ### 🔍 Data Access & Manipulation
 - **Slicing & Indexing**
   - Accessing elements in 1D, 2D, and 3D arrays
   - Advanced slicing techniques
+ 
+![image alt](https://github.com/ashishkumardata/Numpy-Tutorials/blob/5af21b34be779726d549b57936c3a82f5d10fdb8/Image/2.png)
 
 - **Filtering**
   - Boolean masking
@@ -37,6 +40,7 @@ This repository includes the following NumPy concepts:
   - Performing operations on arrays with different shapes
   - Rules and practical examples
 
+![image alt](https://github.com/ashishkumardata/Numpy-Tutorials/blob/5af21b34be779726d549b57936c3a82f5d10fdb8/Image/4.png)
 ---
 
 ### 📊 Functions & Aggregation
@@ -47,7 +51,8 @@ This repository includes the following NumPy concepts:
 - **Aggregate Functions**
   - `sum()`, `mean()`, `min()`, `max()`, `std()`
   - Axis-based operations
-
+  
+![image alt](https://github.com/ashishkumardata/Numpy-Tutorials/blob/5af21b34be779726d549b57936c3a82f5d10fdb8/Image/3.png)
 ---
 
 ### 🎲 Random Module
@@ -61,7 +66,7 @@ This repository includes the following NumPy concepts:
 - **Saving and Loading Data**
   - `.npy` and `.npz` formats
   - Efficient storage of NumPy arrays
-
+![image alt](https://github.com/ashishkumardata/Numpy-Tutorials/blob/5af21b34be779726d549b57936c3a82f5d10fdb8/Image/5.png)
 ---
 
 ### 📁 Additional Files
